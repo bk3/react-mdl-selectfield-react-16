@@ -1,6 +1,7 @@
 {
   "name": "react-mdl-selectfield",
   "description": "React MDL SelectField Component",
+  "version": "0.3.0",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
