@@ -1,5 +1,5 @@
 import React, { Component, Children } from 'react'
-import PropTypes from 'prop-types';
+import PropTypes from 'prop-types'
 import { Textfield, Menu, Icon } from 'react-mdl'
 import classnames from 'classnames'
 
